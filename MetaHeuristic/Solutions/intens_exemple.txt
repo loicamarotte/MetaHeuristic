@@ -1,0 +1,9 @@
+intens_exemple.txt
+3
+1 8 0
+2 5 9
+3 3 40
+valid 
+69
+1
+Intensification

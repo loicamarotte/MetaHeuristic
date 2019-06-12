@@ -1,0 +1,9 @@
+sol_inf_exemple.txt
+3
+1 8 0
+2 5 0
+3 3 0
+invalid 
+34
+0
+borne inf
